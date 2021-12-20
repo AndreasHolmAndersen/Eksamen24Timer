@@ -14,6 +14,8 @@ Efter dette burde backenden køre og du har nu adgang til de tables der er lavet
 
 
 -----Frontend-------
+
+
 Åben html filen index.html og i consolen i browseren kør metoden CallMeForInitialData(); for at få fyldt databasen op med data fra Ærøs kommunalvalg.
 
 
